@@ -10,10 +10,9 @@ This project is the back end for an e-commerce site. This application configure 
   1. [User Story](#user-story)
   2. [Acceptance Criteria](#acceptance-criteria)
   3. [Installation](#Installation)
-  4. [Usage](#Usage)
-  5. [Github](#Github)
-  6. [Email](#Email)
-  7. [Licenses](#Licenses)
+  4. [Github](#Github)
+  5. [Email](#Email)
+  6. [Licenses](#Licenses)
 
 
 # User Story
